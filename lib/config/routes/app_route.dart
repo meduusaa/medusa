@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:medusa/config/routes/routes.dart';
 
 class AppRouter {
   Route onGeneratedRoute(RouteSettings routeSettings) {
